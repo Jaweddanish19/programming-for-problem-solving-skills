@@ -1,1 +1,1 @@
-# programming-for-solving-skills
+# programming-for-problem-solving-skills
